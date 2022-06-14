@@ -41,3 +41,12 @@ STEP 2: click "download ZIP"
 
 ---------------------------------------------------------------------
 
+After extrating the Zip file to the folder, click on the offline download version (NOT A VIRUS)
+![image](https://user-images.githubusercontent.com/101944828/173686407-1097592b-f47c-45ea-aacd-d5e917a7cf2e.png)
+------------------------------------------------------------------------------------------------------------
+HAVE FUN!!!
+![image](https://user-images.githubusercontent.com/101944828/173686566-622bcf40-6f93-445b-a2e2-57ef7de7cc4a.png)
+
+
+
+
