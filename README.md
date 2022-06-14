@@ -24,6 +24,20 @@ This FREE BROWSER DOWNLOAD MINECRAFT is still under developement, so some bugs m
 Early Beta, Major issues may arrise
 
 
+TO DOWNLOAD:
 
+STEP 1: click on the blue "Code"
 
 ![image](https://user-images.githubusercontent.com/101944828/173496932-d59ed328-7727-4b3e-98ca-8b6ee12cd763.png)
+
+
+---------------------------------------------------------------------
+
+STEP 2: click "download ZIP"
+
+![image](https://user-images.githubusercontent.com/101944828/173497185-1adc8bcc-1383-4084-bc41-6909838fc140.png)
+
+
+
+---------------------------------------------------------------------
+
